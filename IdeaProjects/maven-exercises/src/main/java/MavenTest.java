@@ -15,7 +15,7 @@ public class MavenTest {
         String userInput2 = sc.nextLine();
         System.out.println(StringUtils.swapCase(userInput2));
         System.out.println(StringUtils.reverse(userInput2));
-
+        System.out.println("lol");
     }
 
 }
